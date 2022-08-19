@@ -6,7 +6,6 @@ Yellow
 Green
 Unicorn
 Blue
-Indigo
 Purple
 These are the colors of the rainbow!!
 And the unicorn
